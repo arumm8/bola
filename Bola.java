@@ -7,9 +7,7 @@ public class Bola {
         return this.jariJari=jari;    
     }
     
-    public double getjariJari(){
-        return this.jariJari;   
-    }
+    
     
     public double showDiameter (){
         return jariJari * 2;
